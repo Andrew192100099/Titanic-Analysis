@@ -3,7 +3,7 @@
 _________________
 
 ## **This project is not just data.**
-It’s the story of **<ins>1,300+ passengers</ins>** aboard the Titanic — their fates sealed by class, gender, age, and chance.
+It’s the story of **<ins> estimated 2,224 passengers and crew aboard</ins>** aboard the Titanic — their fates sealed by class, gender, age, and chance.
 Through Python, Pandas, Matplotlib, and Seaborn, we uncover patterns buried in the numbers.
 ________________________
 
