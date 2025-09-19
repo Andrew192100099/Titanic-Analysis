@@ -47,5 +47,5 @@ ________________
 🏴🏳️ ***Who lived… and who never made it ashore?***
 
 ![image alt](https://github.com/Andrew192100099/Titanic-Analysis/blob/main/Titanic%20Disaster.jpg) 
-<img src="https://github.com/Andrew192100099/Titanic-Analysis/blob/main/Titanic%20Story.jpg" alt="Titanic Analysis" width="400" height="1200">
+<img src="https://github.com/Andrew192100099/Titanic-Analysis/blob/main/Titanic%20Story%202.jpg" alt="Titanic Analysis" width="400" height="650">
 
