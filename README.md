@@ -9,15 +9,15 @@ ________________________
 
 ## ❓ **Questions We Set Out to Answer**
 
-●■ *Did gender decide survival?*
+● *Did gender decide survival?*
 
-■ *Were the rich in First Class more likely to make it?*
+● *Were the rich in First Class more likely to make it?*
 
-■ *Did being a child offer protection, or a death sentence?*
+● *Did being a child offer protection, or a death sentence?*
 
-■ *Which deck and ticket class carried the highest risk?*
+● *Which deck and ticket class carried the highest risk?*
 
-■ *Was survival just luck… or was it mathematically predictable?*
+● *Was survival just luck… or was it mathematically predictable?*
 _____________________
 
 ## **🔍 What We Did**
