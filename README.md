@@ -2,8 +2,8 @@
 #####                                       *"April 15, 1912 — a cold night, a ship of dreams, and a tragedy that still echoes through history…"*
 _________________
 
-## ★☆ **This project is not just data.**
-It’s the story of <ins>1,300+ passengers</ins> aboard the Titanic — their fates sealed by class, gender, age, and chance.
+## **This project is not just data.**
+It’s the story of **<ins>1,300+ passengers</ins>** aboard the Titanic — their fates sealed by class, gender, age, and chance.
 Through Python, Pandas, Matplotlib, and Seaborn, we uncover patterns buried in the numbers.
 ________________________
 
