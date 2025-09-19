@@ -40,7 +40,8 @@ ____________________________
 **<ins>Every 0</ins>** *means history claimed another victim.*
 ________________
 
-## **This analysis brings data to life — transforming numbers into the human story of survival, tragedy, and chance.**
+## **This analysis brings data to life —**
+## **Transforming numbers into the human story of survival, tragedy, and chance.**
 
 🔍***Step into the data. Discover the untold patterns.***
 
