@@ -42,6 +42,6 @@ ________________
 
 ## **This analysis brings data to life — transforming numbers into the human story of survival, tragedy, and chance.**
 
-***🔍 Step into the data. Discover the untold patterns.***
+🔍***Step into the data. Discover the untold patterns.***
 
-***📍 Who lived… and who never made it ashore?***
+🏳️🏴***Who lived… and who never made it ashore?***
