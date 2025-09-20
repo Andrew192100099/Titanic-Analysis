@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║                     Titanic Exploratory Data Analysis   		    ║
+║                     Titanic Exploratory Data Analysis   		     ║
 ╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: From raw passenger data → to survival insights & visual storytelling.
@@ -92,5 +92,6 @@ Institute: Elevoo, Egypt
 Track: Data Analytics — Internship Task 2 (EDA)  
 
 ════════════════════════════════════════════════════════════════════════
+
 
 
