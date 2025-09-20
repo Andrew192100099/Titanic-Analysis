@@ -48,7 +48,7 @@ ________________
 
 <img src="https://github.com/Andrew192100099/Titanic_Dataset_Analysis/blob/main/Images/Titanic%20Disaster.jpg" alt="Titanic Analysis" width="473" height="950">
 <img src="https://github.com/Andrew192100099/Titanic-Analysis/blob/main/Images/Titanic%20Story.jpg" alt="Titanic Analysis" width="473" height="950">
-______
+_____________
 
 ## **Kaggle:** https://www.kaggle.com/datasets/rashigoel/titanic-machine-learning-from-disaster
 
