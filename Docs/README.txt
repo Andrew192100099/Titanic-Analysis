@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════╗
-║              Titanic Exploratory Data Analysis   	       ║
+║              Titanic Exploratory Data Analysis   	         ║
 ╚════════════════════════════════════════════════════════════╝
 
 Tagline: From raw passenger data → to survival insights & visual storytelling.
@@ -102,3 +102,4 @@ Questions, suggestions or collaborations — 192100099@ecu.edu.eg || andrewwageh
 
 
 ════════════════════════════════════════════════════════════════════════
+
