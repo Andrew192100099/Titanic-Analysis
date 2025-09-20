@@ -1,6 +1,6 @@
-╔════════════════════════════════════════════════════════════════════╗
-║                   Titanic Exploratory Data Analysis   		     ║
-╚════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║                     Titanic Exploratory Data Analysis   				       ║
+╚════════════════════════════════════════════════════════════╝
 
 Tagline: From raw passenger data → to survival insights & visual storytelling.
 
@@ -87,14 +87,17 @@ NOTES
 ────────────────────────────────────────────────────────────────────────
 LICENSE & CREDITS
 ────────────────────────────────────────────────────────────────────────
-Author: <Andrew Wageh>  
+Author: <Andrew Wageh Fahmy>   
 Institute: Elevoo, Egypt  
-Track: Data Analytics — Internship Task 2 (EDA)  
+Track: Data Analytics — Internship Task 2 (EDA)   
+Dataset source: RashiGoel — Titanic: Machine Learning from Disaster (Kaggle)
+https://www.kaggle.com/datasets/rashigoel/titanic-machine-learning-from-disaster
+
+License: MIT 
+
+────────────────────────────────────────────────────────────────────────
+CONTACT
+────────────────────────────────────────────────────────────────────────
+Questions, suggestions or collaborations — 192100099@ecu.edu.eg || andrewwageh333@gmail.com
 
 ════════════════════════════════════════════════════════════════════════
-
-
-
-
-
-
